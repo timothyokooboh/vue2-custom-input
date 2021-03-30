@@ -1,6 +1,6 @@
 {
   "name": "vue2-custom-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/vue2-custom-input.ssr.js",
   "browser": "dist/vue2-custom-input.esm.js",
